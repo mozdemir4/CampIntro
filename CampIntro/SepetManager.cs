@@ -11,6 +11,7 @@ namespace CampIntro
         public void Add(Product product)
         {
             Console.WriteLine("Product added :"+product.Name);
+            Console.WriteLine("---------");
         }
     }
 }
