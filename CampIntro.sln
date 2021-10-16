@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{3E5D0AA4-529E-4AB7-BF05-A69CCBF826EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethods", "ClassMethods\ClassMethods.csproj", "{3122223E-A30B-4005-B4C5-C8A73DE1F35B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethods\ClassMethodDemo.csproj", "{3122223E-A30B-4005-B4C5-C8A73DE1F35B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
