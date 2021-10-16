@@ -34,7 +34,7 @@ namespace Methods
 
         static void Add()
         {
-            Console.WriteLine("Added for changed");
+            Console.WriteLine("Added for changing");
         }
         static int Add2(int a, int b)
         {
