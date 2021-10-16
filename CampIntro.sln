@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{3E5D0AA4-529E-4AB7-BF05-A69CCBF826EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{05638343-C492-4C12-B5DF-FA020B8E385B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{05638343-C492-4C12-B5DF-FA020B8E385B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{360CA246-442F-426E-AC92-4236114DACA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodsDemo", "ClassMethodsDemo\ClassMethodsDemo.csproj", "{AD5D0E40-7AF8-4731-9E79-C8C3EABBE117}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{05638343-C492-4C12-B5DF-FA020B8E385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05638343-C492-4C12-B5DF-FA020B8E385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05638343-C492-4C12-B5DF-FA020B8E385B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{360CA246-442F-426E-AC92-4236114DACA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{360CA246-442F-426E-AC92-4236114DACA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{360CA246-442F-426E-AC92-4236114DACA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{360CA246-442F-426E-AC92-4236114DACA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5D0E40-7AF8-4731-9E79-C8C3EABBE117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5D0E40-7AF8-4731-9E79-C8C3EABBE117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5D0E40-7AF8-4731-9E79-C8C3EABBE117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5D0E40-7AF8-4731-9E79-C8C3EABBE117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

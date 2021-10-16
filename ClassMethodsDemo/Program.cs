@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace ClassMethodDemo
+namespace ClassMethodsDemo
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
-            Console.WriteLine("Everything is changed");
         }
     }
 }
